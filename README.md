@@ -20,14 +20,14 @@ O que você vai encontrar aqui:
 	Projeto relacionado ao Trabalho de Conclusão de Curso de Engenharia Cartográfica
 
 
-2)Desenvolvimento de API em VBA
+2) Desenvolvimento de API em VBA
 
 	Sistemas de cadastro
 
 	Produto desenvolvido para a Instituição Baroni Educar LTDA
 
 
-3)Rotinas em R	
+3) Rotinas em R	
 
 	Rotinas de pré-processamento de dados, mineração de dados (principalmente mineração de padrões), confecção de gráficos, entre outros
 
