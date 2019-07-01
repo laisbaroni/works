@@ -4,7 +4,7 @@ Sobre Lais Baroni
 
 	Geofísica (UFF 2015)
 
-	Cursando graduação em Engenharia Cartográfica (UERJ)
+	Engenheira Cartógrafa (UERJ 2019)
 
 	Cursando mestrado em Engenharia de Produção e Sistemas (CEFET)
 
